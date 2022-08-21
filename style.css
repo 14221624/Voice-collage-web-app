@@ -5,4 +5,39 @@ body
 }
 
 
+h1
+{
+    font-weight: bolder;
+    font-family: Akaya Telivigala;
+}
+
+
+.img:hover
+{
+    border-radius: 13px;
+    border-color: rgb(58, 54, 54);
+    border-width: 6px;
+}
+
+.img
+{
+    border-color: rgb(58, 54, 54);
+    border-style: double;
+    border-width: 6px;
+    margin-bottom: 10px;
+}
+
+#camera
+{
+    border-radius: 20px;
+    border-style: double;
+    border-color: rgb(58, 54, 54);
+    height: 360px;
+    border-width: 10px;
+}
+
+
+
+
+
 
